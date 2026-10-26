@@ -1,0 +1,6 @@
+Lobitopia — YouTube LIVE stream key
+Stream: Lobita & Robito: The Rainbow Compass — Live Loop (MEj2lrqni2s)
+RTMP server: rtmp://a.rtmp.youtube.com/live2
+Backup server: rtmp://b.rtmp.youtube.com/live2?backup=1
+Stream key: gpw8-473q-rxpw-rkjj-35bu
+Published Oct 26, 2026 on Cesar's instruction. To revoke: reset the stream key in YouTube Studio.
