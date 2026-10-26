@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lobitopia — Lobita &amp; Robito</title>
+    <link>https://www.youtube.com/@lobitopiatv</link>
+    <atom:link href="https://fvo20.github.io/lobitopia-feed/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Bilingual (English + Mexican Spanish) cartoon adventures with Lobita the little wolf girl and her robot friend Robito — full episodes, live loops, and songs for kids. Aventuras bilingües para niños con Lobita y Robito.</description>
+    <language>en-us</language>
+    <itunes:author>Lobitopia</itunes:author>
+    <itunes:summary>Bilingual cartoon adventures with Lobita and Robito — full episodes, live loops, and songs for kids.</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/fvo20/lobitopia-feed/main/logo.png"/>
+    <itunes:category text="Kids &amp; Family"/>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title>🔴 LIVE — Lobita &amp; Robito: The Rainbow Compass 🌈 Full Episode Loop | Lobitopia</title>
+      <link>https://www.youtube.com/@lobitopiatv/live</link>
+      <guid isPermaLink="true">https://www.youtube.com/@lobitopiatv/live</guid>
+      <pubDate>Mon, 26 Oct 2026 20:15:00 GMT</pubDate>
+      <description>Watch live on YouTube: the full episode "The Rainbow Compass" on a loop. ¡En vivo en YouTube! El episodio completo "La Brújula Arcoíris" en repetición continua.</description>
+      <enclosure url="https://www.youtube.com/@lobitopiatv/live" length="0" type="video/mp4"/>
+      <itunes:image href="https://raw.githubusercontent.com/fvo20/lobitopia-feed/main/logo.png"/>
+    </item>
+
+    <item>
+      <title>Lobita &amp; Robito: The Rainbow Compass 🌈 (Full Episode) | Lobitopia</title>
+      <link>https://www.youtube.com/watch?v=ekRTVf4j4NI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ekRTVf4j4NI</guid>
+      <pubDate>Mon, 19 Oct 2026 23:00:00 GMT</pubDate>
+      <description>Episode 1 — Lobita and Robito follow the Rainbow Compass on their first big adventure. Episodio 1 — Lobita y Robito siguen la Brújula Arcoíris en su primera gran aventura.</description>
+      <enclosure url="https://www.youtube.com/watch?v=ekRTVf4j4NI" length="0" type="video/mp4"/>
+      <itunes:duration>14:49</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/fvo20/lobitopia-feed/main/logo.png"/>
+    </item>
+
+  </channel>
+</rss>
